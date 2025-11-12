@@ -13,3 +13,10 @@ criacartao(
     'o que e uma funçao?',
     'uma funçao e um bloco de codigos que executa alguma tarefa'
 )
+et repostaesta visiel=false function
+ viracartao()[repostestaviivel=repostaestavisivel
+  cartao.clslit.toggle(acive, rspotaetaviivl)
+  ] 
+  cartao.sddevntlistener(click,
+   viracartao)container.appenchid(cartao)
+   ]
